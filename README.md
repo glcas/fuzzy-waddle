@@ -1,7 +1,7 @@
 # fuzzy-waddle
 Part of daily homework I've done during the Data Structure &amp; Algorithm (for non-professional).
 ## Background
-&ensp;&ensp;In the term 2018-2019-2, I choose the general education lesson *`Computer Algorithm and Program`*, which lectured by Professor Dai Bo.
+&ensp;&ensp;In the term 2018-2019-2, I choose the general education course *`Computer Algorithm and Program`*, which is lectured by Professor Dai Bo.
 Mrs. Dai has given us dozens of problems to practise, and I've done part of them.  
 &ensp;&ensp;Suggested by Mrs. Dai and considering my interest, I choose `Python` as coding language instead of `C`.
 ## Module
